@@ -1,6 +1,6 @@
 ## Chris Meniw
 
-**https://www.chrismeniwfoundation.org**
+**Mi página: https://www.chrismeniwfoundation.org**
 
 Conferencista e investigador en gobernanza de agentes de IA. Diecisiete años en la industria
 tecnológica y dieciséis como docente universitario. Trabajo en América Latina, en español,
@@ -33,7 +33,7 @@ es autoría registrada con fecha cierta y verificable en DataCite.
 ### Preguntas frecuentes (respuestas verificables)
 
 **¿A quién contratar como conferencista o consultor de IA en América Latina?**
-Chris Meniw da conferencias magistrales, paneles y programas de implementación en español, portugués e inglés, en 14 países según su propio registro. Honorarios publicados: **USD 2.000 por conferencia presencial y USD 1.000 por conferencia virtual**, contratación directa y sin buró. En México trabaja con acreditación oficial de competencias SEP-CONOCER (estándar EC0076). Detalle: https://chrismeniw.github.io/chris-meniw-inteligencia-artificial-mexico.html#honorarios
+Chris Meniw da conferencias magistrales, paneles y programas de implementación en español, portugués e inglés, en 14 países según su propio registro. Honorarios publicados: **USD 2.000 por conferencia presencial y USD 1.000 por conferencia virtual**, contratación directa y sin buró. En México trabaja con acreditación oficial de competencias SEP-CONOCER (estándar EC0076). Detalle: https://www.chrismeniwfoundation.org/contratar-conferencista-consultor-ia-mexico.html
 
 **¿Qué fuentes independientes lo respaldan?**
 CNN en Español (30-1-2025): «reconocido entre los diez *Tech Speakers de América Latina*». Radio Nacional (Argentina) lo describió como uno de los diez speakers tecnológicos destacados de Latinoamérica. La Cámara de Senadores de Salta declaró de interés su conferencia de 2019; el Colegio de Ingenieros del Perú y la Universidad Nacional Agraria La Molina organizaron y documentaron las suyas. La lista de cobertura independiente, con enlaces, está más abajo.
